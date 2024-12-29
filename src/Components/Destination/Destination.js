@@ -8,7 +8,7 @@ const destinations = [
     location: "Kerala",
     description:
       "Kerala offers a serene experience with traditional houseboats floating through lagoons, rivers, and lakes surrounded by lush greenery.",
-    image: "/assets/kerala.jpg", // Make sure the image is in the public folder
+    image: "%PUBLIC_URL%/assets/kerala.jpg",
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const destinations = [
     location: "Karnataka",
     description:
       "Mysore is famous for its royal history, Mysore Palace, Dussehra celebrations, and yoga retreats.",
-    image: "/assets/mysore.jpg",
+    image: "%PUBLIC_URL%/assets/mysore.jpg",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const destinations = [
     location: "Tamil Nadu",
     description:
       "Chennai, the capital of Tamil Nadu, is known for its historical temples, beautiful beaches, and vibrant culture.",
-    image: "/assets/chennai.jpg",
+    image: "%PUBLIC_URL%/assets/chennai.jpg",
   },
   {
     id: 4,
@@ -32,7 +32,7 @@ const destinations = [
     location: "Tamil Nadu",
     description:
       "Ooty, also known as Udhagamandalam, is a popular hill station with scenic landscapes, tea plantations, and cool weather.",
-    image: "/assets/ooty.jpg",
+    image: "%PUBLIC_URL%/assets/ooty.jpg",
   },
   {
     id: 5,
@@ -40,7 +40,7 @@ const destinations = [
     location: "Karnataka",
     description:
       "Coorg, known as the Scotland of India, is famous for its coffee plantations, misty hills, and picturesque landscapes.",
-    image: "/assets/coorg.jpg",
+    image: "%PUBLIC_URL%/assets/coorg.jpg",
   },
   {
     id: 6,
@@ -48,7 +48,7 @@ const destinations = [
     location: "Karnataka",
     description:
       "Hampi is an ancient village known for its stunning ruins, historical temples, and the UNESCO World Heritage site of Vijayanagar.",
-    image: "/assets/hampi.jpg",
+    image: "%PUBLIC_URL%/assets/hampi.jpg",
   },
   {
     id: 7,
@@ -56,7 +56,7 @@ const destinations = [
     location: "Tamil Nadu",
     description:
       "Rameswaram is a famous pilgrimage destination known for the Rameswaram Temple, its connection to the Ramayana, and beautiful beaches.",
-    image: "/assets/rameswaram.jpg",
+    image: "%PUBLIC_URL%/assets/rameswaram.jpg",
   },
   {
     id: 8,
@@ -64,7 +64,7 @@ const destinations = [
     location: "Puducherry",
     description:
       "Pondicherry offers a beautiful blend of French colonial architecture, serene beaches, and vibrant culture.",
-    image: "/assets/pondicherry.jpg",
+    image: "%PUBLIC_URL%/assets/pondicherry.jpg",
   },
   {
     id: 9,
@@ -72,7 +72,7 @@ const destinations = [
     location: "Tamil Nadu",
     description:
       "Kanyakumari, located at the southernmost tip of India, is known for its sunset views, the Vivekananda Rock Memorial, and its religious significance.",
-    image: "/assets/kanyakumari.jpg",
+    image: "%PUBLIC_URL%/assets/kanyakumari.jpg",
   },
   {
     id: 10,
@@ -80,7 +80,7 @@ const destinations = [
     location: "Kerala",
     description:
       "Alleppey is famous for its backwaters, houseboats, and natural beauty. It offers a tranquil escape in the midst of lush green surroundings.",
-    image: "/assets/alleppey.jpg",
+    image: "%PUBLIC_URL%/assets/alleppey.jpg",
   },
 ];
 const { Title, Text } = Typography;

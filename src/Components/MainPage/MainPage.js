@@ -13,7 +13,7 @@ const MainPage = () => {
     "“Life is short and the world is wide.” – Simon Raven",
     "“The journey, not the arrival, matters.” – T.S. Eliot",
   ];
-  const taxiImage = "/assets/taxiImage.jpg";
+  const taxiImage = "%PUBLIC_URL%/assets/taxiImage.jpg";
 
   return (
     <div>
