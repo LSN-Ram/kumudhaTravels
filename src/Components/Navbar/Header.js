@@ -99,7 +99,7 @@ const Header = () => {
         <Row justify="space-between">
           <LogoContainer to="/" aria-label="homepage">
             <img
-              src="%PUBLIC_URL%/assets/KumudhaTravelsLogopreview.png"
+              src={`${process.env.PUBLIC_URL}/assets/KumudhaTravelsLogopreview.png`}
               style={{
                 width: "150px",
                 height: "120px",
