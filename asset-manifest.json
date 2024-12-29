@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/kumudhaTravels/static/css/main.07d4b9a2.css",
-    "main.js": "/kumudhaTravels/static/js/main.636dc938.js",
+    "main.js": "/kumudhaTravels/static/js/main.6935cce5.js",
     "static/js/908.af383f9a.chunk.js": "/kumudhaTravels/static/js/908.af383f9a.chunk.js",
-    "static/js/718.455c10c2.chunk.js": "/kumudhaTravels/static/js/718.455c10c2.chunk.js",
+    "static/js/718.e16a8167.chunk.js": "/kumudhaTravels/static/js/718.e16a8167.chunk.js",
     "static/js/806.24f34f20.chunk.js": "/kumudhaTravels/static/js/806.24f34f20.chunk.js",
     "static/js/446.5c5ebdb0.chunk.js": "/kumudhaTravels/static/js/446.5c5ebdb0.chunk.js",
     "static/js/668.0fa91c86.chunk.js": "/kumudhaTravels/static/js/668.0fa91c86.chunk.js",
@@ -16,9 +16,9 @@
     "static/js/268.624c5b1c.chunk.js": "/kumudhaTravels/static/js/268.624c5b1c.chunk.js",
     "index.html": "/kumudhaTravels/index.html",
     "main.07d4b9a2.css.map": "/kumudhaTravels/static/css/main.07d4b9a2.css.map",
-    "main.636dc938.js.map": "/kumudhaTravels/static/js/main.636dc938.js.map",
+    "main.6935cce5.js.map": "/kumudhaTravels/static/js/main.6935cce5.js.map",
     "908.af383f9a.chunk.js.map": "/kumudhaTravels/static/js/908.af383f9a.chunk.js.map",
-    "718.455c10c2.chunk.js.map": "/kumudhaTravels/static/js/718.455c10c2.chunk.js.map",
+    "718.e16a8167.chunk.js.map": "/kumudhaTravels/static/js/718.e16a8167.chunk.js.map",
     "806.24f34f20.chunk.js.map": "/kumudhaTravels/static/js/806.24f34f20.chunk.js.map",
     "446.5c5ebdb0.chunk.js.map": "/kumudhaTravels/static/js/446.5c5ebdb0.chunk.js.map",
     "668.0fa91c86.chunk.js.map": "/kumudhaTravels/static/js/668.0fa91c86.chunk.js.map",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.07d4b9a2.css",
-    "static/js/main.636dc938.js"
+    "static/js/main.6935cce5.js"
   ]
 }
